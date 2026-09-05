@@ -69,7 +69,7 @@ Errores de Poisson en las cuentas (`σ_N = √N`), ajuste acotado con `bounds` y
 ## Créditos
 
 Las mediciones son trabajo de laboratorio en grupo. El código de análisis
-publicado acá es mío; los datos del efecto fotoeléctrico se tomaron junto a
+publicado y los datos del efecto fotoeléctrico se tomaron junto a
 **Belén Robiglio**.
 
 ## Cómo correrlos
